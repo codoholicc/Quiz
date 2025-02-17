@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0D1323</color> <!-- Dark Navy Blue -->
+    <color name="colorPrimaryDark">#050A18</color> <!-- Darker Shade -->
+    <color name="colorAccent">#FF4081</color> <!-- Accent color ko same rakha -->
+    <color name="colorPrimaryText">#FFFFFF</color> <!-- Text white for dark bg -->
+    <color name="colorPrimaryTextOpaque">#B3FFFFFF</color> <!-- Opaque white -->
+    <color name="colorPrimaryButton">#0D1323</color> <!-- Button text dark background par light -->
+    <color name="colorEditTextBgColor">#1E2333</color> <!-- Darker input field bg -->
+    <color name="colorEditTextBorderColor">#3C4355</color> <!-- Border ke liye dark gray -->
+    <color name="colorPrimaryButtonBg">#FF4081</color> <!-- Accent color for button bg -->
+</resources>
